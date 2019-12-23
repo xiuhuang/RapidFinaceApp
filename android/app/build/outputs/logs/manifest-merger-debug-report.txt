@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /Users/grandhonor/grandhonor/RapidFinaceApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.0-rc.3] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/edc8c7f67b812e4f27b63e0b68888072/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/eefd2ce1340937e83b4c3d495fced135/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /Users/grandhonor/grandhonor/RapidFinaceApp/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/8e82f326bde7559d60d55ffea0257f1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/0c61a22f6d4a13888d2ca4858ea68dd8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/526d33ab9efcf5667df3d70f7984c5c2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/f48726e925f6e798c386df9d89d5a1b7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/014c9fbb8695f7a496677b0c58de5fc0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/d2f95ae49e0666f0a3a6c18a70f77f4a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/e6dcd63c6ecf54a253f5dc505d0d0556/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/8720f63c644527d777302ebce221653c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/895c1e4f2d2fcf68860c53524b3a76f0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/471e07b07102a62543348ea90f754275/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/20719717623b08ed553c03e753e034c9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/f8017dbff4124767f4fe94edd2aec854/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/e2df9c9d68ea621e3eed7eb5f4b568b9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/3088b47453725c4bd3977bf843d2fb10/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/30bc7eea1d2c01d82f86a33fbbdb06d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/4da1d69ccd1e48bb0ea2bc153fee7d16/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/00f286d569b07049fab9cc951cc87b0f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/840fa8c6ff5356bdc0acef60955238f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/d2478369ee6232e027005429e11e4670/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/c6f4d73e6fc1cf35d802e4d98e5e08bf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/0bcbcc8ce133786ff4f741baea83d153/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/610b3622cb488c10c0a7948723cf4a61/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/c3077516d10b4b0353cd11b82b8b2fdb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/89e40252e6980f78db46a2eeca71ab5d/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/e544a91288d06cedfe034cb99eadfb4f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/28efa307a7f70b4bbfa87e957f10237b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/daae8aa424161cde773f59f5a9e37e75/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/6a5e0ec4dd0c2a430df6c8dc43b951ff/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/79cc37f5ea42b3ed6ccb506625d374d0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/ce02756b0f0ec3e9cc652ac6326cd092/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/f71f29770633122b61e01ddf0fe88255/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/c487198579b52ce08d63433f851a6888/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/0efea14eda17280850dd0b8631189675/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/297b3df1fe9d7710dac2be85bb8a07f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/60361abc217a02c892363bf74e43ade4/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.0-rc.3] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/edc8c7f67b812e4f27b63e0b68888072/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.0-rc.3] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/edc8c7f67b812e4f27b63e0b68888072/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/895c1e4f2d2fcf68860c53524b3a76f0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/895c1e4f2d2fcf68860c53524b3a76f0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/c3077516d10b4b0353cd11b82b8b2fdb/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/c3077516d10b4b0353cd11b82b8b2fdb/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/89e40252e6980f78db46a2eeca71ab5d/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/89e40252e6980f78db46a2eeca71ab5d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/c3077516d10b4b0353cd11b82b8b2fdb/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.rapidfinaceapp.MainActivity
+ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /Users/grandhonor/grandhonor/RapidFinaceApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/grandhonor/grandhonor/RapidFinaceApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.0-rc.3] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/edc8c7f67b812e4f27b63e0b68888072/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.0-rc.3] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/edc8c7f67b812e4f27b63e0b68888072/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/eefd2ce1340937e83b4c3d495fced135/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/eefd2ce1340937e83b4c3d495fced135/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/grandhonor/grandhonor/RapidFinaceApp/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/grandhonor/grandhonor/RapidFinaceApp/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/8e82f326bde7559d60d55ffea0257f1b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/8e82f326bde7559d60d55ffea0257f1b/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/0c61a22f6d4a13888d2ca4858ea68dd8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/0c61a22f6d4a13888d2ca4858ea68dd8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/526d33ab9efcf5667df3d70f7984c5c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/526d33ab9efcf5667df3d70f7984c5c2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/f48726e925f6e798c386df9d89d5a1b7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/f48726e925f6e798c386df9d89d5a1b7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/014c9fbb8695f7a496677b0c58de5fc0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/014c9fbb8695f7a496677b0c58de5fc0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/d2f95ae49e0666f0a3a6c18a70f77f4a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/d2f95ae49e0666f0a3a6c18a70f77f4a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/e6dcd63c6ecf54a253f5dc505d0d0556/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/e6dcd63c6ecf54a253f5dc505d0d0556/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/8720f63c644527d777302ebce221653c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/8720f63c644527d777302ebce221653c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/895c1e4f2d2fcf68860c53524b3a76f0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/895c1e4f2d2fcf68860c53524b3a76f0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/471e07b07102a62543348ea90f754275/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/471e07b07102a62543348ea90f754275/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/20719717623b08ed553c03e753e034c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/20719717623b08ed553c03e753e034c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/f8017dbff4124767f4fe94edd2aec854/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/f8017dbff4124767f4fe94edd2aec854/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/e2df9c9d68ea621e3eed7eb5f4b568b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/e2df9c9d68ea621e3eed7eb5f4b568b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/3088b47453725c4bd3977bf843d2fb10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/3088b47453725c4bd3977bf843d2fb10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/30bc7eea1d2c01d82f86a33fbbdb06d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/30bc7eea1d2c01d82f86a33fbbdb06d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/4da1d69ccd1e48bb0ea2bc153fee7d16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/4da1d69ccd1e48bb0ea2bc153fee7d16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/00f286d569b07049fab9cc951cc87b0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/00f286d569b07049fab9cc951cc87b0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/840fa8c6ff5356bdc0acef60955238f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/840fa8c6ff5356bdc0acef60955238f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/d2478369ee6232e027005429e11e4670/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/d2478369ee6232e027005429e11e4670/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/c6f4d73e6fc1cf35d802e4d98e5e08bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/c6f4d73e6fc1cf35d802e4d98e5e08bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/0bcbcc8ce133786ff4f741baea83d153/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/0bcbcc8ce133786ff4f741baea83d153/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/610b3622cb488c10c0a7948723cf4a61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/610b3622cb488c10c0a7948723cf4a61/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/c3077516d10b4b0353cd11b82b8b2fdb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/c3077516d10b4b0353cd11b82b8b2fdb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/89e40252e6980f78db46a2eeca71ab5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/89e40252e6980f78db46a2eeca71ab5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/e544a91288d06cedfe034cb99eadfb4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/e544a91288d06cedfe034cb99eadfb4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/28efa307a7f70b4bbfa87e957f10237b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/28efa307a7f70b4bbfa87e957f10237b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/daae8aa424161cde773f59f5a9e37e75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/daae8aa424161cde773f59f5a9e37e75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/6a5e0ec4dd0c2a430df6c8dc43b951ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/6a5e0ec4dd0c2a430df6c8dc43b951ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/79cc37f5ea42b3ed6ccb506625d374d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/79cc37f5ea42b3ed6ccb506625d374d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/ce02756b0f0ec3e9cc652ac6326cd092/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/ce02756b0f0ec3e9cc652ac6326cd092/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/f71f29770633122b61e01ddf0fe88255/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/f71f29770633122b61e01ddf0fe88255/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/c487198579b52ce08d63433f851a6888/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/c487198579b52ce08d63433f851a6888/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/0efea14eda17280850dd0b8631189675/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/0efea14eda17280850dd0b8631189675/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/297b3df1fe9d7710dac2be85bb8a07f2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/297b3df1fe9d7710dac2be85bb8a07f2/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/60361abc217a02c892363bf74e43ade4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/grandhonor/.gradle/caches/transforms-2/files-2.1/60361abc217a02c892363bf74e43ade4/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/grandhonor/grandhonor/RapidFinaceApp/android/app/src/debug/AndroidManifest.xml:5:22-75

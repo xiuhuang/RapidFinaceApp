@@ -1,0 +1,84 @@
+{
+  "code": "200",
+  "data": [
+    {
+      "id": 3,
+      "courseId": 2003,
+      "lecturerId": 0,
+      "lecturerName": "0",
+      "title": "小熊老师长投学堂投资课程",
+      "titleUrl": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3299094909,610775186&fm=15&gp=0.jpg",
+      "briefIntroduction": "激变时代，企业转型升级关键9要素",
+      "detailedIntroduction": "1.每天10分钟，快速掌握企业价值系统理论核心理论，做好企业转型的关键决策 ；↵2.    从3个维度视角出发，帮你全面、系统地构建企业转型思维框架，提升商业思考维度；↵3.    通过360°全方位案例拆解，看清企业转型成败背后的本质，对标成功经验提升实战应用能力。",
+      "price": "99",
+      "status": "0",
+      "countPartNum": 16,
+      "currentPartNum": 0,
+      "learningPersonNum": 0,
+      "isFree": "0",
+      "createTime": "2019-10-30 15:12:42",
+      "createBy": "system",
+      "updateBy": "system",
+      "remark": null
+    },
+    {
+      "id": 2,
+      "courseId": 2002,
+      "lecturerId": 0,
+      "lecturerName": "0",
+      "title": "2019第三届科技金融高峰论坛",
+      "titleUrl": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2528556299,1170484103&fm=15&gp=0.jpg",
+      "briefIntroduction": "在区块链浪潮中找到项目机会关键9要素",
+      "detailedIntroduction": "模块一   摸清现状 ：区块链快速入门↵↵回归技术本质：没有技术背景，怎样快速理解区块链的核心原理？↵了解市场规模：区块链行业里有哪些分类?目前做得怎么样？↵洞悉入场选手：到底是哪些人参与了区块链生态圈？↵↵模块二  挖掘市场：区块链场景应用↵↵构建应用场景：除了数字货币，还有哪些细分市场可以应用这项技术？↵探索未来趋势：在可预见的未来，区块链技术还能颠覆哪些行业？↵提前预估风险：如何避免实际应用中的隐患？↵↵模块三  价值变现 ： ICO与投资↵↵拓展融资方式：ICO是优质的融资通道吗？对创业者的实际价值在哪？↵给出投资建议：那么多人炒币都赚了，我该不该入市？↵判断项目价值：如何辨别一个ICO项目是泡沫还是钻石？",
+      "price": "59",
+      "status": "2",
+      "countPartNum": 10,
+      "currentPartNum": 10,
+      "learningPersonNum": 0,
+      "isFree": "0",
+      "createTime": "2019-10-30 15:12:22",
+      "createBy": "system",
+      "updateBy": "system",
+      "remark": null
+    },
+    {
+      "id": 1,
+      "courseId": 2001,
+      "lecturerId": 0,
+      "lecturerName": "0",
+      "title": "星域CDN新品发布会",
+      "titleUrl": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2532176061,4127912299&fm=26&gp=0.jpg",
+      "briefIntroduction": "10W+BP建模分析凝炼的关键9要素",
+      "detailedIntroduction": " 3333333",
+      "price": "39",
+      "status": "2",
+      "countPartNum": 11,
+      "currentPartNum": 11,
+      "learningPersonNum": 0,
+      "isFree": "0",
+      "createTime": "2019-10-30 13:41:17",
+      "createBy": "system",
+      "updateBy": "system",
+      "remark": null
+    }
+  ],
+  "senseData": [
+    {
+      "img": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2850043118,3186690933&fm=26&gp=0.jpg"
+    },
+    {
+      "img": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2271967039,1246881383&fm=26&gp=0.jpg"
+    },
+    {
+      "img": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=502310848,3064989415&fm=26&gp=0.jpg"
+    },
+    {
+      "img": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=162756338,284694609&fm=26&gp=0.jpg"
+    }
+  ],
+  "message": "成功",
+  "pages": 1,
+  "size": 10,
+  "total": 3,
+  "pageNum": 1
+}
